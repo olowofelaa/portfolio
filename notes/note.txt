@@ -1,0 +1,12 @@
+31 july, 2020
+-am sorry that am submitting this project late sir, it is not that am not serious or am not interested. 
+-In order to make some change for myself, I do video editing for people. So most times am on my laptop editing videos,  and this do take alot of my time, 
+-That is what has been distracting lately.
+-the project is a portfolio combined with a blog
+-a user can go through the blog and make comments 
+-The project is half way done
+-am having problem with the static files, 
+		I can’t load the js and css file (I have tired different method, but it not working)
+		On the project portal, the img file isn’t uploading to the web.
+These are the issue am having.
+Doyin.
